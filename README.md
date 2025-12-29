@@ -3,7 +3,6 @@
 
 
 - 🌱 My hobbies are reading, playing games and listening to music
-![](https://github.com/VINHTQV/VINHTQV/blob/main/hinh1.jpg?raw=true)
 
 
 - 🔭 How to reach me
